@@ -2,19 +2,26 @@
 # My Portfolio
 
 > This is a Portfolio setup and mobile version  project by microverse to test the use of Flexbox for Positioning and also images and Background,
+![portfolio](img/my-portfolio.jpeg)
+
 
 ## Built With
 
 - Html
 - CSS
+## Live Demo
+
+https://raw.githack.com/mbdesigns1989/first-3-sections-for-mobile-website/first-3-sections-for-mobile-web/index.html
 
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites html/css/github workflow knowledge
+### Prerequisites
+html/css/github workflow knowledge  
 
-### Setup Set up and configure git on your system
+### Setup 
+Set up and configure git on your system. 
 
 ### Install
 
